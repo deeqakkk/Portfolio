@@ -1,0 +1,142 @@
+a{
+    color:#1cdae0;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1rem;
+    padding: 5px 10px 5px 10px;
+
+}
+
+a:hover{
+    color:#eaf6f6
+}
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 1.5em;
+    color:#40514e
+}
+.btn {
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;  
+    color: #ffffff;
+    font-size: 20px;
+    background: #11999e;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #1bc9cf;
+    text-decoration: none;
+  }
+.bottom-container {
+    margin-top:60px;   
+    background-color: #11999e;
+    padding: 15px 0 10px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+}
+
+.contact-text{
+    font-size: 1.2rem;
+    margin-bottom:60px;
+}
+.contact-me{
+    margin-top:70px;
+    margin-bottom: 100px;
+}
+
+.copyright{
+    color:#eaf6f6;
+    font-size:0.9rem; 
+    padding: 20px 0;
+}
+.dsa-img{
+    width:25%; 
+    float:left;
+    padding-right:25px;
+}
+h1 {
+    margin: 0;
+    margin-top: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color: #66bfbf;
+
+
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.3rem;
+    color: #66bfbf;
+    font-weight: bold;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999e;
+}
+
+hr{
+    width:5%;
+    border: dotted #eaf6f6 6px;
+    border-bottom:none; 
+    margin:50px auto 50px auto;  
+    
+}
+.intro{
+    width:30%;
+    margin:5px auto 5px auto;
+    line-height:2;
+}
+
+.middle-container {
+
+    margin:50px 0 50px 0;
+}
+
+.pro {
+    text-decoration: underline;
+}
+.profile-img{
+    width:15%;
+}
+
+.profile{
+    margin-bottom: 60px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto ;
+    text-align: left;
+    
+   
+}
+
+.top-container {
+    background-color: #e4f9f5;
+    padding-top: 100px;
+    position: relative;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 250px;
+    top: 50px;
+
+}
+
+.web-img{
+    width:25%;
+    float:right;
+}
